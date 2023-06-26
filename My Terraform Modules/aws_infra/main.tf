@@ -1,3 +1,3 @@
 module "cloudwatch-dashboards" {
-  source = "../modules/cloudwatch-dashboards"
+  source = "../modules/ec2"
 }
